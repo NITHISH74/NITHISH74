@@ -27,7 +27,7 @@ I've had the opportunity to intern at Edify Techno Solutions, where I honed my s
 
 ### 🌟 Notable Projects
 
-- **[Image Enhancement with ESRGAN](#)**: Enhanced image quality using ESRGAN, increasing website traffic by 20%.
+- **[Image Enhancement with ESRGAN](https://github.com/NITHISH74/Mini-project-Super-Resolution)**: Enhanced image quality using ESRGAN, increasing website traffic by 20%.
 - **[Medical Chatbot with LLM](#)**: Developed a chatbot for medical issues using the RAG method with the Llama 2 model.
 - **[Weather Forecasting with LSTM](#)**: Applied LSTM for predicting weather patterns.
 
