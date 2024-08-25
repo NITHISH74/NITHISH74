@@ -16,7 +16,7 @@ I've had the opportunity to intern at Edify Techno Solutions, where I honed my s
 
 ### 🛠️ Technologies & Tools
 
-- **Programming Languages**: Python, SQL
+- **Programming Languages**: Python, C
 - **Frameworks & Libraries**: TensorFlow, Keras, PyTorch, Scikit-Learn, Flask
 - **Tools**: Jupyter Notebook, Git, Docker
 
