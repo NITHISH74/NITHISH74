@@ -35,6 +35,7 @@ I specialize in **fine‑tuning AI models for production**, aligning AI outputs 
 - Working with multiple AI and Generative AI models for **enterprise production use cases**
 - Fine‑tuning models to improve accuracy, reliability, and performance
 - Aligning AI outputs with business logic and real‑world constraints
+- Evaluating the Large Language Model(LLM) with the industry-standard Datasets
 - Exploring **Agentic AI systems** for autonomous decision‑making and task execution
 
 ### AI Intern – Machine Learning & Deep Learning  
@@ -46,13 +47,13 @@ I specialize in **fine‑tuning AI models for production**, aligning AI outputs 
 
 ## 🌟 Featured Projects
 
-- 📌 **[Image Enhancement with ESRGAN](https://github.com/NITHISH74/Mini-project-Super-ser engagement and visual performance
+- 📌 [Image Enhancement with ESRGAN] (https://github.com/NITHISH74/Mini-project-Super-Resolution)
 
-- 📌 **[Medical Chatbot using LLMs & RAG](https://github.com/Nware medical chatbot using Retrieval‑Augmented Generation with LLaMA‑2
+- 📌 [Medical Chatbot using LLMs & RAG] (https://github.com/NITHISH74/Med-chatbot)
 
-- 📌 **[Video Super‑Resolution System](https://github.com/NITHISH74/Video-Sing image enhancement, noise reduction, and frame stabilization
+- 📌 [Video Super‑Resolution System] (https://github.com/NITHISH74/Video-Super-Resolution)
 
-- 📌 **[TAGAN – Text‑Aware GANs](https://github.com/NITHISH74/Text-from-Gen-AI-image-improvisationate, context‑aware text overlays
+- 📌 [TAGAN – Text from Gen-AI image improvisation] (https://github.com/NITHISH74/Text-from-Gen-AI-image-improvisation-)
 
 ---
 
