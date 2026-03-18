@@ -1,47 +1,78 @@
 # About Me
+## 👋 Hi, I'm Nithishwar S
 
-## Hi there! I'm Nithishwar S 👋
+🚀 **Software Engineer | Generative AI Developer | Agentic AI Enthusiast**
 
-I'm a passionate **Bachelor of Technology** student specializing in **Artificial Intelligence and Data Science** at Saveetha Engineering College, Chennai, India. With a CGPA of 7.78/10.0, I'm deeply engaged in exploring and applying advanced AI and machine learning techniques.
+I’m a **Software Engineer at Hexaware Technologies**, working on **Generative AI systems** and real‑world AI deployments. I completed my **B.Tech in Artificial Intelligence and Data Science (2025)** from Saveetha Engineering College, Chennai, where I built a strong foundation in machine learning, deep learning, and system design.
 
-### 🚀 My Journey
+I specialize in **fine‑tuning AI models for production**, aligning AI outputs with business requirements, and building scalable, intelligent solutions. I’m currently transitioning deeper into **Agentic AI**, focusing on autonomous, goal‑driven systems that can reason, plan, and adapt using tools and memory.
 
-I had the opportunity to intern at Edify Techno Solutions, where I deepened my expertise in machine learning and deep learning by developing Python-based algorithms for data analysis and predictive modeling. My work reinforced my understanding of AI concepts and their impactful applications across industries.
+---
 
-### 🔍 What I Do
+## 🔥 What I Work On
 
-- **Machine Learning & Data Science**: Working with algorithms, model evaluation, and performance metrics. I’ve applied these skills to diverse datasets and projects.
-- **Deep Learning**: Exploring advanced architectures like Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTM) networks.
-- **Image Processing**: Recently, I worked on enhancing images using the ESRGAN model, improving image quality for thousands of photos, and boosting user engagement.
-- **Generative AI**: Currently working on TAGAN (Text-Aware GANs) to generate images with high-quality, contextually accurate text overlays.
-- **AI-Powered Solutions**: Developed LLM-based chatbots and forecasting models for healthcare and weather prediction.
+- **Generative AI & LLMs**: Fine‑tuning, LLM Evaluation, optimization, RAG pipelines, and enterprise use cases  
+- **Agentic AI**: Autonomous agents, tool usage, multi‑step reasoning, and workflow orchestration  
+- **Machine Learning & Deep Learning**: Model training, evaluation, and optimization  
+- **Computer Vision**: Image & video super‑resolution, enhancement, and GAN‑based solutions  
+- **AI‑Powered Applications**: Chatbots, forecasting models, and intelligent automation  
 
-### 🛠️ Technologies & Tools
+---
 
-- **Programming Languages**: Python, C
-- **Frameworks & Libraries**: TensorFlow, Keras, PyTorch, Scikit-Learn, Flask, OpenCV.
-- **Tools**: Jupyter Notebook, Git, Docker, FastAPI, LangChain.
+## 🛠️ Tech Stack
 
-### 🎓 Education & Certifications
+**Languages**: Python, C  
+**Frameworks & Libraries**: TensorFlow, PyTorch, Keras, Scikit‑Learn, OpenCV  
+**GenAI & Agents**: LangChain, LLMs, RAG, GANs, Diffusion Models  
+**Tools & Platforms**: FastAPI, Flask, Deepeval, Git, Jupyter Notebook  
 
-**Bachelor of Technology (B.Tech.) in Artificial Intelligence & Data Science – Saveetha Engineering College, Chennai**
-#### Certifications:
-- ✅ Google AI & Machine Learning Certification
+---
+
+## 💼 Experience
+
+### Software Engineer – Generative AI Developer  
+**Hexaware Technologies**  
+- Working with multiple AI and Generative AI models for **enterprise production use cases**
+- Fine‑tuning models to improve accuracy, reliability, and performance
+- Aligning AI outputs with business logic and real‑world constraints
+- Exploring **Agentic AI systems** for autonomous decision‑making and task execution
+
+### AI Intern – Machine Learning & Deep Learning  
+**Edify Techno Solutions**  
+- Built ML and deep learning models for large‑scale data analysis
+- Worked on predictive modeling and performance optimization
+
+---
+
+## 🌟 Featured Projects
+
+- 📌 **[Image Enhancement with ESRGAN](https://github.com/NITHISH74/Mini-project-Super-ser engagement and visual performance
+
+- 📌 **[Medical Chatbot using LLMs & RAG](https://github.com/Nware medical chatbot using Retrieval‑Augmented Generation with LLaMA‑2
+
+- 📌 **[Video Super‑Resolution System](https://github.com/NITHISH74/Video-Sing image enhancement, noise reduction, and frame stabilization
+
+- 📌 **[TAGAN – Text‑Aware GANs](https://github.com/NITHISH74/Text-from-Gen-AI-image-improvisationate, context‑aware text overlays
+
+---
+
+## 🎓 Education & Certifications
+
+**B.Tech – Artificial Intelligence & Data Science**  
+Saveetha Engineering College, Chennai  
+
+**Certifications**:
+- ✅ Google AI & Machine Learning
 - ✅ IBM Deep Learning Specialization
 - ✅ NVIDIA Deep Learning Institute
 
-### 🌟 Notable Projects
-- **📌[Image Enhancement with ESRGAN](https://github.com/NITHISH74/Mini-project-Super-Resolution)**: Enhanced image quality using ESRGAN, increasing website traffic by 20%.
-- **📌[Medical Chatbot with LLM](https://github.com/NITHISH74/Med-chatbot)**: Developed a chatbot for medical issues using the RAG method with the Llama 2 model.
-- **📌[Super-Resolution for Videos](https://github.com/NITHISH74/Video-Super-Resolution)**: Developed a Video Super-Resolution model incorporating image enhancement, noise reduction, and frame stabilization, significantly improving video clarity and detail.
-- **📌[TAGAN (Text-Aware GANs) for Image Generation](https://github.com/NITHISH74/Text-from-Gen-AI-image-improvisation-)**: Built a multimodal AI system that generates images with contextually accurate and visually appealing text overlays, leveraging GANs, OCR, and diffusion models.
+---
 
-### 🤝 Let's Connect
+## 🤝 Let’s Connect
 
-- **LinkedIn**: [Nithishwar S](https://www.linkedin.com/in/nithish74)
-- **Email**: nithishwarsenthilkumaran@gmail.com
+- 💼 **LinkedIn**: [linkedin.com/in/nithish74](https://www.linkedin.com/in/nithumaran@gmail.com
 
-Feel free to explore my repositories and connect with me if you have any questions or collaboration opportunities!
+⭐ Feel free to explore my repositories, raise issues, or collaborate on AI, GenAI, and Agentic AI projects!
 
 ---
 
